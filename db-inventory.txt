@@ -1,0 +1,2 @@
+Nama Perangkat :  router 111,Lokasi : gedung a
+Nama Perangkat :  switch 222,Lokasi : gedung b
